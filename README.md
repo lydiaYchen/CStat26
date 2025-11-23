@@ -51,8 +51,21 @@ Lydia is the responsible instructors of this course and can jointly be reached a
 
 ##  7. <a name='Detailedschedule'></a>Detailed schedule
 
-
-
-Week 14 (May 20) | Deep Learning for Time Series   | | **Lab interview**|
-Week 15 (May 27) | Project final presentation  | | |
+**Week**|**Lecture Topic**|**Online Lesson**|**Lab designer**
+:-----|:-----|:-----|:-----
+Week 1 (Feb 17) | Introduction and Recap|  | 
+Week 2 (Feb 24) | Estimator |STAT4215 - lesson 1/2 | Basile | 
+Week 3 (Mar 3) | Classical inference | STAT4215 - lesson 3/4 | Basile|
+Week 4 (Mar 10) | Hypothesis Testing | STAT4215 - lesson 6/7| Basile |
+Week 5 (Mar 17) | DOE-one factor |STAT4215 - lesson 10/12| elif|
+Week 6 (Mar 24) |  DOE - 2^k| STAT4215 - lesson 13  | Elif |
+Week 7 (Mar 31) |  DoE - fractional |STAT4215 - lesson 14| Elif|
+Week 8 (April 7) | no class   | no lab |
+Week 9 (April 14) | Regression | Quiz|
+Week 10 (April 21) | Ensemble |   | Basile
+Week 11 (April 28)  | Stochastic Gradient Decent  | |  Gert |
+Week 12 (May 5) | CNN |  | Gert |
+Week 13 (May 12 | Autoencoder |  |  Gert|
+Week 14 (May 19) | RNN   | | **Quiz**|Gert|
+Week 15 (May 26) | Project final presentation  | |
 
