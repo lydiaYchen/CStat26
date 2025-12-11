@@ -10,11 +10,11 @@ This is the course repository for the computational statistics course at Data Sc
 In this course, there are three modules:
 - Part I:  Statistical Inference
 - Part II:  Anova analysis and design of experiments
-- Part III: Time Series Analysis
+- Part III: Deep Learning
 The Part I and II will have stronger focus on the theory and the Part III focus on the applications.
 
 This course is continuously evaluated and have following two grading items :dart:
-- Three Lab interviews (30\%): pass/fail . Each passing lab accounts for 10 % of the final grade.
+- Three Lab quizs (30\%): pass/fail . Each passing lab accounts for 10 % of the final grade.
   
 - Final project: 70 % of the final grade, consisting of three milestones
   * Midterm presentation on the project proposal and progress (April 15): feedback will be given but not graded
@@ -57,9 +57,9 @@ Week 1 (Feb 17) | Introduction and Recap|  |
 Week 2 (Feb 24) | Estimator |STAT4215 - lesson 1/2 | Basile | 
 Week 3 (Mar 3) | Classical inference | STAT4215 - lesson 3/4 | Basile|
 Week 4 (Mar 10) | Hypothesis Testing | STAT4215 - lesson 6/7| Basile |
-Week 5 (Mar 17) | DOE-one factor |STAT4215 - lesson 10/12| elif|
-Week 6 (Mar 24) |  DOE - 2^k| STAT4215 - lesson 13  | Elif |
-Week 7 (Mar 31) |  DoE - fractional |STAT4215 - lesson 14| Elif|
+Week 5 (Mar 17) | DOE-one factor |STAT4215 - lesson 10/12| Basile|
+Week 6 (Mar 24) |  DOE - 2^k| STAT4215 - lesson 13  | Basile |
+Week 7 (Mar 31) |  DoE - fractional |STAT4215 - lesson 14| Basile|
 Week 8 (April 7) | no class   | no lab |
 Week 9 (April 14) | Regression | Quiz|
 Week 10 (April 21) | Ensemble |   | Basile
