@@ -9,8 +9,8 @@ This is the course repository for the computational statistics course at Data Sc
 
 In this course, there are three modules:
 - Part I:  Statistical Inference
-- Part II:  Anova analysis and design of experiments
-- Part III: Deep Learning
+- Part II: Anova analysis and design of experiments
+- Part III: Practical Deep Learning
 The Part I and II will have stronger focus on the theory and the Part III focus on the applications.
 
 This course is continuously evaluated and have following two grading items :dart:
@@ -29,7 +29,7 @@ Specifically, we will follow the following three courses and part of their their
 Here are the online for this course.
 - [STAT4215 (lessons 2-14 )](https://online.stat.psu.edu/stat415/)
 - [STAT503 (lessons 3.5-7 )](https://online.stat.psu.edu/stat415/)
-- [STAT510: (lessons 1-5)](https://online.stat.psu.edu/stat510/)
+
 
 The recommended book for CS4215 and we will use exercises of this book in the book.
  
@@ -45,9 +45,9 @@ Lydia is the responsible instructors of this course and can jointly be reached a
 ##  5. <a name='Learningobjectives'></a>Learning objectives
 - Understanding statistical inference
 - Understanding and designing experiments
-- Understanding and Applying ANOVA analysis
+- Understanding and applying ANOVA analysis
 - Understanding and developing standndard learning methods
--Understanding and developing deep learning methods
+
 
 ##  7. <a name='Detailedschedule'></a>Detailed schedule
 
