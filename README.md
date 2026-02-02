@@ -38,7 +38,7 @@ The recommended book for CS4215 and we will use exercises of this book in the bo
 
 This course will be mainly taught by [Prof. Lydia Y Chen](https://lydiaychen.github.io/)  The course team is composed of a number of PhDs  who support the course through guest lectures and project supervision and a TA who focuses on the grading of homework. 
 
--  [Basile](mailto:basile.lewandowski@unine.ch) and [Elif](mailto:)
+-  [Gert](mailto:gert.lek@unine.ch) and [Elif](mailto:elif.yilmaz@unine.ch)
 
 Lydia is the responsible instructors of this course and can jointly be reached at **lydiaychen@ieee.org**.
 
@@ -54,15 +54,15 @@ Lydia is the responsible instructors of this course and can jointly be reached a
 **Week**|**Lecture Topic**|**Book Materials*|**Lab designer**
 :-----|:-----|:-----|:-----
 Week 1 (Feb 17) | Introduction and Recap|  | 
-Week 2 (Feb 24) | Estimator |STAT4215 - lesson 1/2 | Basile | 
-Week 3 (Mar 3) | Classical inference | STAT4215 - lesson 3/4 | Basile|
-Week 4 (Mar 10) | Hypothesis Testing | STAT4215 - lesson 6/7| Basile |
-Week 5 (Mar 17) | DOE-one factor |STAT4215 - lesson 10/12| Basile|
-Week 6 (Mar 24) |  DOE - 2^k| STAT4215 - lesson 13  | Basile |
-Week 7 (Mar 31) |  DoE - fractional |STAT4215 - lesson 14| Basile|
+Week 2 (Feb 24) | Estimator |STAT4215 - lesson 1/2 | Elif | 
+Week 3 (Mar 3) | Classical inference | STAT4215 - lesson 3/4 | Elif|
+Week 4 (Mar 10) | Hypothesis Testing | STAT4215 - lesson 6/7| Elif|
+Week 5 (Mar 17) | DOE-one factor |STAT4215 - lesson 10/12| Elif|
+Week 6 (Mar 24) |  DOE - 2^k| STAT4215 - lesson 13  | Elif |
+Week 7 (Mar 31) |  DoE - fractional |STAT4215 - lesson 14| Elif|
 Week 8 (April 7) | no class   | no lab |
 Week 9 (April 14) | Regression | Quiz|
-Week 10 (April 21) | Ensemble |   | Basile
+Week 10 (April 21) | Ensemble |   | Gert|
 Week 11 (April 28)  | Stochastic Gradient Decent  | |  Gert |
 Week 12 (May 5) | CNN |  | Gert |
 Week 13 (May 12 | Autoencoder |  |  Gert|
