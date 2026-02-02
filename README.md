@@ -14,7 +14,7 @@ In this course, there are three modules:
 The Part I and II will have stronger focus on the theory and the Part III focus on the applications.
 
 This course is continuously evaluated and have following two grading items :dart:
-- Three Lab quizs (30\%): pass/fail . Each passing lab accounts for 10 % of the final grade.
+- Two Lab quizs (30\%): pass/fail . Each passing lab accounts for 10 % of the final grade.
   
 - Final project: 70 % of the final grade, consisting of three milestones
   * Midterm presentation on the project proposal and progress (April 15): feedback will be given but not graded
@@ -51,7 +51,7 @@ Lydia is the responsible instructors of this course and can jointly be reached a
 
 ##  7. <a name='Detailedschedule'></a>Detailed schedule
 
-**Week**|**Lecture Topic**|**Online Lesson**|**Lab designer**
+**Week**|**Lecture Topic**|**Book Materials*|**Lab designer**
 :-----|:-----|:-----|:-----
 Week 1 (Feb 17) | Introduction and Recap|  | 
 Week 2 (Feb 24) | Estimator |STAT4215 - lesson 1/2 | Basile | 
