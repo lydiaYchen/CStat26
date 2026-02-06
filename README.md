@@ -14,7 +14,7 @@ In this course, there are three modules:
 The Part I and II will have stronger focus on the theory and the Part III focus on the applications.
 
 This course is continuously evaluated and have following two grading items :dart:
-- Two Lab quizs (30\%): pass/fail . Each passing lab accounts for 10 % of the final grade.
+- Two Lab quizs (30\%): pass/fail . Each passing lab accounts for 15 % of the final grade.
   
 - Final project: 70 % of the final grade, consisting of three milestones
   * Midterm presentation on the project proposal and progress (April 15): feedback will be given but not graded
@@ -61,7 +61,7 @@ Week 5 (Mar 17) | DOE-one factor |STAT4215 - lesson 10/12| Elif|
 Week 6 (Mar 24) |  DOE - 2^k| STAT4215 - lesson 13  | Elif |
 Week 7 (Mar 31) |  DoE - fractional |STAT4215 - lesson 14| Elif|
 Week 8 (April 7) | no class   | no lab |
-Week 9 (April 14) | Regression | Quiz|
+Week 9 (April 14) | Regression | Quiz, Project Midterm |
 Week 10 (April 21) | Ensemble |   | Gert |
 Week 11 (April 28)  | Stochastic Gradient Decent  | | Elif |
 Week 12 (May 5) | CNN |  | Gert |
