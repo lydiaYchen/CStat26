@@ -7,11 +7,11 @@ This is the course repository for the computational statistics course at Data Sc
 
 ##  2. <a name='Coursedescription'></a>Course description and grading :dart:
 
-In this course, there are three modules:
-- Part I:  Statistical Inference
-- Part II: Anova analysis and design of experiments
-- Part III: Practical Deep Learning
-The Part I and II will have stronger focus on the theory and the Part III focus on the applications.
+In this course, there are two modules:
+- Part I:  Statistical Inference, Anova analysis and design of experiments
+- Part II: Practical Deep Learning
+
+The Part I will have stronger focus on the theory and the Part II focus on the applications.
 
 This course is continuously evaluated and have following two grading items :dart:
 - Two Lab quizs (30\%): pass/fail . Each passing lab accounts for 15 % of the final grade.
