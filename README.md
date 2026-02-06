@@ -54,16 +54,16 @@ Lydia is the responsible instructors of this course and can jointly be reached a
 **Week**|**Lecture Topic**|**Book Materials*|**Lab designer**
 :-----|:-----|:-----|:-----
 Week 1 (Feb 17) | Introduction and Recap|  | 
-Week 2 (Feb 24) | Estimator |STAT4215 - lesson 1/2 | Elif | 
-Week 3 (Mar 3) | Classical inference | STAT4215 - lesson 3/4 | Elif|
+Week 2 (Feb 24) | Estimator |STAT4215 - lesson 1/2 | Gert | 
+Week 3 (Mar 3) | Classical inference | STAT4215 - lesson 3/4 | Gert |
 Week 4 (Mar 10) | Hypothesis Testing | STAT4215 - lesson 6/7| Elif|
 Week 5 (Mar 17) | DOE-one factor |STAT4215 - lesson 10/12| Elif|
 Week 6 (Mar 24) |  DOE - 2^k| STAT4215 - lesson 13  | Elif |
 Week 7 (Mar 31) |  DoE - fractional |STAT4215 - lesson 14| Elif|
 Week 8 (April 7) | no class   | no lab |
 Week 9 (April 14) | Regression | Quiz|
-Week 10 (April 21) | Ensemble |   | Gert|
-Week 11 (April 28)  | Stochastic Gradient Decent  | |  Gert |
+Week 10 (April 21) | Ensemble |   | Gert |
+Week 11 (April 28)  | Stochastic Gradient Decent  | | Elif |
 Week 12 (May 5) | CNN |  | Gert |
 Week 13 (May 12 | Autoencoder |  |  Gert|
 Week 14 (May 19) | RNN   | | **Quiz**|Gert|
