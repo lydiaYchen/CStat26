@@ -1,0 +1,68 @@
+# Group Project
+## Objectives
+
+
+The objective of this group project is to get a hand-on experience in a team of data scientists, applying what you learn from the class to a real-world data set.  The data set is **housing** , which has a rich set of features and can be downloaded here.  
+
+**Data set** : https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
+
+
+The project is done in a **group of one or two or three students**. The key tasks are to process the data, build  statistical models predict the house prices and write an evaluation analysis on the goodness of the models.  
+
+You are expected to apply at all of the following statistical models (covered in the class)
+- Classical statistical inference. i.e., sample mean, variance, confidence interval, and hypothesis testing. This can be applied on all the features or housing values themselves 
+- Applying the 2^k, fractional factorial design, and ANOVA to figure out the relevant features. 
+- Regression and ANOVA analysis. You build regression models that can best predict the housing prices and apply ANOVA to analyze the models, i.e., the relevant factors and models themselves.
+- Non-parametric model fitting. You will fit a regression model based on a neural network, and analyze the model outputs. This can be achieved with Torch or other similar packages.
+  
+## Key milestones
+
+1. **Midterm presentation** (mandatory, but ungraded - you will receive feedback): due on week 9
+2. **Final project repository/report** (mandatory, graded): due on week 15
+3. **20 min Final presentation** (mandatory, graded): due on week 15
+
+All the documents need to be submitted via the moodle. Exact due dates are on the moodle.
+
+## Grading breakdown of the project
+
+- Final report and repository: 50%
+- Prediction correctness: 20%
+- 20 min final project presentation: 15 %
+- Individual contribution: 15%
+
+### Prediction correctness (20%)
+
+Your final project repository must include a prediction file (`submission.csv`) with your model's predictions for the test set (`test.csv`). The file must contain two columns: `Id` and `SalePrice`. Your notebook code should produce this file as its output.
+
+We will submit your `submission.csv` to the Kaggle competition and grade based on the RMSE score.
+
+Kaggle evaluates submissions using RMSE on log-transformed prices: $\text{RMSE} = \sqrt{\frac{1}{n}\sum_{i=1}^{n}(\log(y_i + 1) - \log(\hat{y}_i + 1))^2}$.
+
+The grading scale for this component:
+| Kaggle RMSE (log) | Grade |
+|---|---|
+| < 0.13 | 100% |
+| 0.13 - 0.15 | 90% |
+| 0.15 - 0.18 | 75% |
+| 0.18 - 0.22 | 60% |
+| > 0.22 | 40% |
+
+
+## Final project report/repository
+
+You are going to build the entire project on your github/gitlab or other similar platforms. It should contain two files, report.md and a notebook. 
+
+### Report (report.md)
+
+- This file is a stand-alone document that explains how you (pre)process the data, how you build the models and select the relevant features, and how you analyze the model outputs. 
+- You should apply all the statistical methods (listed in the objectives) on different part of the steps. You are encouraged to use different statistical plots to support your analysis.  
+- Here is the list of sections recommended: (i) a short abstract of summarizing the report (ii) introduction of explaining the objective, method and analysis, (iii) statistical methods used for preprocessing data, selecting features, building the models and analyzing the model outputs, and (iv) the conclusion.  
+- Submission.  You need to send us the git repository link, and  print the report.md file as a pdf and upload on the moodle. 
+- Sample report. We will share a sample report by email. 
+
+### Code notebook (`project_STUDENTID.ipynb`)
+
+- A start with data processing has already been made in `Project/project_STUDENTID.ipynb`. It covers loading the data, importing packages and exploring the data structure.
+- This notebook contains all the codes you write from loading the data, preprocessing, collecting statistics, building the models, and analysis.
+- The notebook shall contain simple comments to explain the steps and the reasons behind that.
+- The notebook shall have a clear structure and is well aligned with the report,

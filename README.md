@@ -3,7 +3,7 @@
 This is the course repository for the computational statistics course at the Data Science Bachelor Program of the University of Neuchatel.
 
 ## Important links
-- [Project description](project.md)
+- [Project description](Project\project.md)
 
 ##  2. <a name='Coursedescription'></a>Course description and grading :dart:
 
