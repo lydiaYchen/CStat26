@@ -17,7 +17,7 @@ This course is continuously evaluated and has the following two grading items :d
 - Two Lab quizzes (30\%): pass/fail. Each passing lab accounts for 15% of the final grade.
   
 - Final project: 70 % of the final grade, consisting of three milestones
-  * Midterm presentation on the project proposal and progress (April 15): feedback will be given but not graded
+  * Midterm presentation on the project proposal and progress (April 15): feedback will be given but not graded. The midterm covers parts 1-3 of the project (Classical Statistical Inference, ANOVA, Factorial Design). Take this opportunity to get feedback on your progress. 
   * Final presentation on the project (May 27): graded
   * Final project report (due on May 27): graded
 
