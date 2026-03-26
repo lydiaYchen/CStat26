@@ -62,8 +62,8 @@ Week 6 (Mar 24) |  DOE - 2^k| STAT4215 - lesson 13  | Elif |
 Week 7 (Mar 31) |  DoE - fractional |STAT4215 - lesson 14| Elif|
 Week 8 (April 7) | no class   | no lab |
 Week 9 (April 14) | Regression | **Quiz** , |
-Week 10 (April 21) |Tree algorthms |   Project Midterm  | Gert |
-Week 11 (April 28)  | Stochastic Gradient Descent - online | | Elif |
+Week 10 (April 21) | Introduction to DL/Project Midterm    |   | Gert |
+Week 11 (April 28)  | Stochastic Gradient Descent | | Elif |
 Week 12 (May 5) | CNN |  | Gert |
 Week 13 (May 12) | Autoencoder |  |  Gert|
 Week 14 (May 19) | RNN   | **Quiz** | Gert|
