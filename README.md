@@ -66,6 +66,6 @@ Week 10 (April 21) | Introduction to DL/Project Midterm    |   | Gert |
 Week 11 (April 28)  | Stochastic Gradient Descent | | Elif |
 Week 12 (May 5) | CNN |  | Gert |
 Week 13 (May 12) | Autoencoder |  |  Gert |
-Week 14 (May 19) | Recap/Project Q/A   | **Quiz 2 Lab Regression->AutoEncoder)** | Gert|
+Week 14 (May 19) | Recap/Project Q/A   | **Quiz 2 (Labs Regression->AutoEncoder)** | Gert|
 Week 15 (May 26) | Project final presentation  | |
 
