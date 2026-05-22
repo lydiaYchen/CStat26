@@ -52,14 +52,14 @@ The grading scale for this component:
 
 ## Final project report/repository
 
-You are going to build the entire project on your github/gitlab or other similar platforms. It should contain two files, report.md and a notebook. 
+You are going to build the entire project on your github/gitlab or other similar platforms. It should contain two files, the report and a notebook. 
 
-### Report (report.md)
+### Report
 
 - This file is a stand-alone document that explains how you (pre)process the data, how you build the models and select the relevant features, and how you analyze the model outputs. 
 - You should apply all the statistical methods (listed in the objectives) on different part of the steps. You are encouraged to use different statistical plots to support your analysis.  
 - Here is the list of sections recommended: (i) a short abstract of summarizing the report (ii) introduction of explaining the objective, method and analysis, (iii) statistical methods used for preprocessing data, selecting features, building the models and analyzing the model outputs, and (iv) the conclusion.  
-- Submission.  You need to send us the git repository link, and  print the report.md file as a pdf and upload on the moodle. 
+- Submission.  You need to send us the git repository link, and report as pdf and upload it on moodle. 
 - Sample report. We will share a sample report by email. 
 
 ### Code notebook (`project_STUDENTID.ipynb`)
